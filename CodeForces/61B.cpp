@@ -5,7 +5,7 @@ using namespace std;
 #define FV(i,v) for(auto i=(v).begin();i!=(v).end();++i)
 #define ALL(v) ((v).begin(), (v).end())
 
-using ll = long long;
+using ll = long long; 
 
 int main(){
 	ios_base::sync_with_stdio(false);cin.tie(0);
